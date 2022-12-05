@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.background-blu{
+    background-color: rgb(58, 167, 214);
+    margin: 30px;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(56, 56, 202);
+    padding-top: 20px;
+}
+.lista-spesa{
+    list-style-type: none;
+    text-align: center;
+    padding-bottom: 20px;
+    color: white;
+}
